@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
               backgroundColor: Colors.purpleAccent[700],
               title: Center(
                 child: Text(
-                  'RestApi',
+                  '',
                 ),
               ),
             ),
